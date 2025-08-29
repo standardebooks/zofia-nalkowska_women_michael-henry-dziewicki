@@ -39,14 +39,14 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008116598</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A Polish woman aims to find love in a society of shifting moral norms.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Janka has emerged from her “ice-plains,” her cerebral realms of pure thought, to bask in the strong sunshine of life. A summer with a friend has introduced her to a love-addled suitor, but her heart is fixed on another‘s more intellectual charms. Meanwhile, the difference in how Polish society accepts men and women’s actions is becoming increasingly apparent to Janka and her wider group of associates.&lt;/p&gt;
+			&lt;p&gt;&lt;i lang="pl"&gt;Kobiety&lt;/i&gt; (“Women” in Polish) was &lt;a href="https://standardebooks.org/ebooks/zofia-nalkowska"&gt;Zofia Nałkowska’s&lt;/a&gt; first novel. The first part was published in &lt;i&gt;The Truth&lt;/i&gt; in 1904, with the following two parts completing the book in 1906, right in the middle of the modernist Young Poland movement. While the novel received this somewhat contemporary translation in 1920, she was mostly forgotten in the English-speaking world until this century, when a set of new translations brought renewed interest, especially to her later work.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61618</dc:source>
 		<dc:source>https://archive.org/details/kobietywomennove00nakouoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/zofia-nalkowska_kobiety_michael-henry-dziewicki</meta>
