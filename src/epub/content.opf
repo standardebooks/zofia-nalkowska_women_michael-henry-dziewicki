@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61618</dc:source>
 		<dc:source>https://archive.org/details/kobietywomennove00nakouoft</dc:source>
-		<meta property="se:word-count">62831</meta>
+		<meta property="se:word-count">62542</meta>
 		<meta property="se:reading-ease.flesch">71.55</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/zofia-nalkowska_women_michael-henry-dziewicki</meta>
 		<dc:creator id="author">Zofia Nałkowska</dc:creator>
