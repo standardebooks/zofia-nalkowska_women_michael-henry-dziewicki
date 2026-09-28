@@ -65,7 +65,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Boris Grigoriev</dc:contributor>
-		<meta property="alternate-script" refines="#artist" xml:lang="ru">Бори́с Дми́триевич</meta>
+		<meta property="alternate-script" refines="#artist">Бори́с Дми́триевич</meta>
 		<meta property="file-as" refines="#artist">Grigoriev, Boris</meta>
 		<link href="https://en.wikipedia.org/wiki/Boris_Grigoriev" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n85159241.html" refines="#artist" rel="schema:sameAs"/>
