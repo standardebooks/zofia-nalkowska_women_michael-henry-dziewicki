@@ -61,6 +61,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Michael Henry Dziewicki</dc:contributor>
 		<meta property="file-as" refines="#translator">Dziewicki, Michael Henry</meta>
+		<meta property="schema:alternateName" refines="#translator">Michał Henryk Seweryn Dziewicki</meta>
 		<link href="https://id.loc.gov/authorities/names/no2009177840.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
